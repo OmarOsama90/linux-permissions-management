@@ -96,7 +96,15 @@ This ensures only the owner can access the directory and its contents.
 - Directory Execute Control
 
 ---
+---
 
+## 📸 Lab Screenshots
+
+### Permission Listing Output
+![Permissions Output](assets/ls-permissions-output.png)
+
+### Hidden File Permission Update
+![Hidden File](assets/hidden-file-permissions.png)
 ## ✅ Summary
 
 This lab strengthened practical Linux security skills by identifying insecure permissions and applying corrective actions using `chmod`.
